@@ -12,11 +12,18 @@ Uses eckerle dataset with a distribution similar to a normal distribution. This 
 ## Other
 The other files were written for experimentation and for learning basic pytorch
 
-#### autoencoder.ipynb
+#### model1.ipynb
 Reconstructs a single column based on other columns from the IRIS dataset
 
-#### autoencoder2.ipynb
+#### model2.ipynb
 Reconstructs a single column based on other columns from the Breast Cancer Dataset
+
+#### model3.ipynb
+Autoencoder that reconstructs linear correlations in wisconsin breast dataset 
+
+#### model4.ipynb
+Autoencoder that reconstructs custom dataset consisting of normal distribution correlation with gaussian noise
+
 
 #### breast_classifier.ipynb
 Classifies breast dataset as Benign or Malignant
