@@ -7,7 +7,7 @@
 
 ## Can we perform data imputation with autoencoders?
 
-##### model3.ipynb - Wisconsin breast dataset (linear correlation)
+##### model3.ipynb - Wisconsin breas    t dataset (linear correlation)
 
 ##### model4.ipynb - Generated dataset (non-linear corerlation with Gaussian noise)
 
