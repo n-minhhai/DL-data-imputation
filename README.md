@@ -1,11 +1,11 @@
-# Research Questions
-## Can we reconstruct a column using another column using feature relatedness?
+# Goal
+## Reconstructing a column using other features with deep learning
 
 ##### model1.ipynb - IRIS dataset (linear correlation)
 
 ##### model2.ipynb - Eckerle dataset (non-linear correlation)
 
-## Can we perform data imputation with autoencoders?
+## Performing data imputation with deep learning
 
 ##### model3.ipynb - Wisconsin breas    t dataset (linear correlation)
 
